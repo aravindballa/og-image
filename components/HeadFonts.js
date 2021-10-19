@@ -8,6 +8,10 @@ const HeadFonts = () => {
         rel="stylesheet"
       />
       <link
+        href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap"
+        rel="stylesheet"
+      />
+      <link
         href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@700&display=swap"
         rel="stylesheet"
       />
