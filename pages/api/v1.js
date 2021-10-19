@@ -4,7 +4,7 @@ import { getScreenshot } from './_lib/chromium';
 const IS_DEV = !process.env.AWS_REGION;
 const IS_HTML_DEBUG = process.env.OG_HTML_DEBUG === '1';
 
-const HOST = 'https://ogsupa.com/';
+const HOST = 'https://og-image-coral-ten.vercel.app/';
 
 export default async function handler(req, res) {
   try {
